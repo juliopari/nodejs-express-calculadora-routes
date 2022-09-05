@@ -1,0 +1,5 @@
+_1. Instalar dependencias
+npm install
+
+_2. Ejecutar
+npm run dev
